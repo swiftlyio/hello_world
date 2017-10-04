@@ -89,7 +89,7 @@
       "package": "Swiftly",
       "reason": null,
       "repositoryURL": "https://github.com/swiftlyio/swiftly.git",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "package": "TLS",
